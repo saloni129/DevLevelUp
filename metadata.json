@@ -1,0 +1,7 @@
+{
+  "name": "DevLevelUp - AI Adaptive Interview Prep",
+  "description": "An intelligent, adaptive platform for developers to assess skill gaps, parse resumes, and generate personalized learning roadmaps and mock interviews using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
